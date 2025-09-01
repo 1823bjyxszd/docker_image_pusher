@@ -1,3 +1,1 @@
-opea/agent:latest
-opea/llm-docsum:latest
-opea/agent-ui:latest
+intelanalytics/ipex-llm-serving-xpu:0.8.3-b19
