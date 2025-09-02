@@ -1,4 +1,4 @@
-# intelanalytics/ipex-llm-serving-xpu:0.8.3-b19
+intelanalytics/ipex-llm-serving-xpu:0.8.3-b19
 opea/agent:latest
 opea/llm-docsum:latest
 opea/agent-ui:latest
